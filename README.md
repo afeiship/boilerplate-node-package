@@ -3,7 +3,7 @@
 
 ## installation
 ```shell
-npm install -S afeiship/boilerplate-nodejs-es5 
+npm install -S @feizheng/boilerplate-nodejs-es5 
 ```
 
 ## usage
