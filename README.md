@@ -3,10 +3,12 @@
 
 ## installation
 ```shell
-npm install -S @feizheng/boilerplate-node-package 
+npm install -S @feizheng/boilerplate-node-package
 ```
 
 ## usage
 ```js
-// codes
+import boilerplateNodePackage from '@feizheng/boilerplate-node-package';
+
+// code goes here
 ```

@@ -1,9 +1,9 @@
 /*!
- * name: @feizheng/boilerplate-nodejs-es5
- * description: boilerplate-nodejs-es5-description
- * url: https://github.com/afeiship/boilerplate-nodejs-es5
+ * name: @feizheng/boilerplate-node-package
+ * description: boilerplate-node-package-description
+ * url: https://github.com/afeiship/boilerplate-node-package
  * version: 1.0.0
- * date: 2020-02-22 14:58:30
+ * date: 2020-02-22 15:14:23
  * license: MIT
  */
 
