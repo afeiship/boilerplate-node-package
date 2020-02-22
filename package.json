@@ -1,8 +1,8 @@
 {
-  "name": "@feizheng/boilerplate-nodejs-es5",
+  "name": "@feizheng/boilerplate-node-package",
   "version": "1.0.0",
-  "description": "boilerplate-nodejs-es5-description",
-  "homepage": "https://github.com/afeiship/boilerplate-nodejs-es5",
+  "description": "boilerplate-node-package-description",
+  "homepage": "https://github.com/afeiship/boilerplate-node-package",
   "author": {
     "name": "afei",
     "email": "1290657123@qq.com"
