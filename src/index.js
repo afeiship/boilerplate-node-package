@@ -1,6 +1,4 @@
-const ABC = 'ABC_FT';
-
-module.exports = async function() {
+export default () => {
   console.log('say hi!');
   console.log(ABC);
 };
