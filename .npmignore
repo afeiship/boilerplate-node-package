@@ -4,10 +4,13 @@
 **/node_modules
 test
 __tests__
+docs
 src
 build
 gulpfile.js
 
 .editorconfig
 .npmrc
-.prettoerrc
+.prettierrc
+.babelrc
+
