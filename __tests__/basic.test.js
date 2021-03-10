@@ -1,4 +1,4 @@
-const package = require('../src');
+const fn = require('../dist').default;
 
 describe('Basic test', () => {
   test('test development', () => {
