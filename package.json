@@ -17,7 +17,7 @@
   "devDependencies": {
     "@babel/core": "^7.8.4",
     "@babel/preset-env": "^7.8.4",
-    "@feizheng/gulp-pkg-header": "^1.0.2",
+    "@feizheng/gulp-pkg-header": "^1.0.4",
     "@feizheng/next-nice-comments": "^1.0.1",
     "babel-plugin-transform-async-to-promises": "^0.8.15",
     "del": "^5.1.0",
