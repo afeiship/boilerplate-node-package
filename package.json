@@ -2,7 +2,7 @@
   "name": "@<%= scope %>/boilerplate-node-package",
   "version": "1.0.0",
   "description": "boilerplate-node-package-description",
-  "homepage": "https://github.com/afeiship/boilerplate-node-package",
+  "homepage": "https://js.work",
   "author": {
     "name": "afei",
     "email": "1290657123@qq.com"
@@ -34,5 +34,10 @@
     "access": "<%= registry.access %>",
     "registry": "<%= registry.publish %>"
   },
-  "dependencies": {}
+  "dependencies": {},
+  "boilerplate": "@<%= scope %>/boilerplate-node-package",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/afeiship/@<%= scope %>/boilerplate-node-package"
+  }
 }
