@@ -35,9 +35,9 @@
     "registry": "<%= registry.publish %>"
   },
   "dependencies": {},
-  "boilerplate": "@<%= scope %>/boilerplate-node-package",
+  "boilerplate": "boilerplate-node-package",
   "repository": {
     "type": "git",
-    "url": "https://github.com/afeiship/@<%= scope %>/boilerplate-node-package"
+    "url": "https://github.com/afeiship/boilerplate-node-package.git"
   }
 }
